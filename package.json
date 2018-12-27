@@ -1,7 +1,9 @@
 {
   "name": "@strange-fish/egg-typeorm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
+  "types": "index.d.ts",
+  "main": "app.js",
   "eggPlugin": {
     "name": "typeorm"
   },
